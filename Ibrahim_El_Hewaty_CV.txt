@@ -1,0 +1,72 @@
+
+Ibrahim El-Hewaty
+Mobile App Development
+Mobile: +201017933654
+Email: elhewatyhima@gmail.com
+LinkedIn: ebrahim-maher
+Portfolio: ebrahim-maher
+Address: Al-Hussainiya / Al-sharqia / Egypt
+Military status: Exempted
+
+Elevator Pitch
+I’m a beginner mobile app developer using Flutter with a solid foundation in building simple, user-friendly apps.
+I’ve developed projects like a calculator, to-do app, login page, and a simple e-commerce app.
+I’m proficient in using Cubit and Block for state management in Flutter, and I focus on writing clean, efficient code.
+Besides my university studies, I’m a graduate of the Mobile App Development Diploma from NTI.
+I’m always eager to improve my skills and contribute to real-world projects that add value to users.
+
+Education:
+• Bachelor’s in Computer Science – Faculty of Computers and Information, Zagazig University – 2025
+  Department: Decision Support
+  Grade: Good [GPA 2.7]
+• Mobile App Development Diploma – National Telecommunication Institute (NTI) – 2025
+• High School Diploma – Al-Husseiniya Military Secondary School for Boys – 2021
+
+Professional Experience
+Freelancer – Mobile App Developer (Flutter) (From 2023 to Present)
+• Developed and deployed multiple mobile apps, including a calculator, to-do app, login page, and e-commerce platform.
+• Collaborated with clients to identify technical requirements and delivered tailored solutions.
+• Designed engaging and user-friendly interfaces, optimizing UX.
+• Delivered custom applications for clients across diverse industries, enhancing functionality and user engagement.
+
+Courses & Certificates
+• Mobile App Development Diploma – National Telecommunication Institute (NTI) – 2025
+• Flutter Course – Udemy – 2022
+• Dart Programming Course – Udemy – 2022
+
+Skills
+Professional
+• Mobile App Development (Flutter)
+• UI/UX Design
+• Dart Programming
+• Project Management
+• Freelancing and client solutions
+
+Personal
+• Time Management
+• Team Leadership
+• Communication Skills
+
+Technical
+• Flutter & Dart Development
+• Firebase Integration
+• API Integration
+• Version Control (Git/GitHub)
+• State Management (Provider, Riverpod)
+• SQLite Database Management
+
+Languages
+• Arabic [Mother tongue]
+• English – Good (Reading, Writing, Speaking)
+
+Volunteering Experience
+• Co-Lead PM, OSC Community – Managed and organized team projects to enhance the community’s tech initiatives.
+• Core Team Member, GDG On-Campus Zagazig – Flutter Track – Currently contributing to the GDG community by working on Flutter-focused events and activities.
+
+Hobbies
+• Reading technical books
+• Developing new apps and exploring technologies
+• Watching educational videos on YouTube
+
+Rewards & Recognition
+• Awarded a Recognition Plaque by the Dean of the Faculty of Computers and Information at Zagazig University for my leadership and successful organization of a major live event within the college.
