@@ -20,14 +20,15 @@
   --element-spacing: 30px;
   
   /* التأثيرات */
-  --transition-fast: 0.3s ease;
-  --transition-medium: 0.5s ease;
-  --transition-slow: 0.8s ease;
-  --border-radius-small: 5px;
-  --border-radius-medium: 10px;
-  --border-radius-large: 20px;
-  --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  --box-shadow-hover: 0 15px 35px rgba(0, 0, 0, 0.2);
+  --transition-fast: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-medium: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  --border-radius-small: 8px;
+  --border-radius-medium: 12px;
+  --border-radius-large: 24px;
+  --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  --box-shadow-hover: 0 20px 40px rgba(0, 0, 0, 0.12);
+  --box-shadow-subtle: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 /* إعادة ضبط أساسية */
@@ -39,6 +40,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 80px;
 }
 
 body {
@@ -122,20 +124,21 @@ a:hover {
 /* الأزرار */
 .btn {
   display: inline-block;
-  padding: 12px 30px;
+  padding: 14px 35px;
   background: var(--primary-color);
   color: var(--light-color);
   border: none;
   border-radius: 50px;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 1.2px;
   cursor: pointer;
   transition: all var(--transition-fast);
   position: relative;
   overflow: hidden;
   z-index: 1;
-  box-shadow: 0 5px 15px rgba(255, 87, 34, 0.3);
+  box-shadow: 0 8px 20px rgba(255, 87, 34, 0.25);
+  font-size: 0.95rem;
 }
 
 .btn::before {
@@ -146,7 +149,7 @@ a:hover {
   width: 0;
   height: 100%;
   background: var(--secondary-color);
-  transition: all 0.5s;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: -1;
 }
 
@@ -155,8 +158,8 @@ a:hover {
 }
 
 .btn:hover {
-  box-shadow: 0 7px 20px rgba(26, 35, 126, 0.4);
-  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(26, 35, 126, 0.35);
+  transform: translateY(-4px);
 }
 
 /* الرأس */
