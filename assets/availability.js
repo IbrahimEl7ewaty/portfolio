@@ -1,1 +1,1 @@
-window.PORTFOLIO_STATUS = 'employed';
+window.PORTFOLIO_STATUS = 'open';
