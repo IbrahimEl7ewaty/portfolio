@@ -1,0 +1,1046 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "title": "Ibrahim El-Hewaty | IT Operations & Infrastructure",
+    "description": "Ibrahim El-Hewaty, IT Operations Supervisor. Hospitality IT, network infrastructure, Windows systems and guest Wi-Fi."
+  },
+  "sectionOrder": [
+    "hero",
+    "about",
+    "experience",
+    "projects",
+    "skills",
+    "education",
+    "certificates",
+    "contact"
+  ],
+  "sections": {
+    "header": {
+      "id": "header",
+      "enabled": true,
+      "navigation": [
+        {
+          "id": "header-navigation-0",
+          "enabled": true,
+          "link": "#about",
+          "label": "About",
+          "_template": "0"
+        },
+        {
+          "id": "header-navigation-1",
+          "enabled": true,
+          "link": "#experience",
+          "label": "Experience",
+          "_template": "1"
+        },
+        {
+          "id": "header-navigation-2",
+          "enabled": true,
+          "link": "#projects",
+          "label": "Project",
+          "_template": "2"
+        },
+        {
+          "id": "header-navigation-3",
+          "enabled": true,
+          "link": "#skills",
+          "label": "Skills",
+          "_template": "3"
+        },
+        {
+          "id": "header-navigation-4",
+          "enabled": true,
+          "link": "#certificates",
+          "label": "Training",
+          "_template": "4"
+        },
+        {
+          "id": "header-navigation-5",
+          "enabled": true,
+          "link": "#contact",
+          "label": "Contact",
+          "_template": "5"
+        }
+      ],
+      "image": {
+        "src": "assets/signature-full.svg",
+        "alt": "Ibrahim El-Hewaty",
+        "srcset": "",
+        "sizes": ""
+      },
+      "link": "#hero",
+      "accessibility": "Ibrahim El-Hewaty, return to home",
+      "accessibility_2": "Main navigation",
+      "link_2": "Ibrahim-ElHewaty-CV.pdf",
+      "menu": "Menu ",
+      "label": "+",
+      "nav_cv": "View resume ↗"
+    },
+    "hero": {
+      "id": "hero",
+      "enabled": true,
+      "highlights": [
+        {
+          "id": "hero-highlights-0",
+          "enabled": true,
+          "link": "#experience",
+          "detail": "03",
+          "title": "Hotel IT operations",
+          "label": "SERVERS · SYSTEMS · SUPPORT",
+          "_template": "0"
+        },
+        {
+          "id": "hero-highlights-1",
+          "enabled": true,
+          "link": "#projects",
+          "detail": "02",
+          "title": "Guest Wi-Fi",
+          "label": "VOUCHERS · CAPTIVE PORTAL",
+          "_template": "1"
+        },
+        {
+          "id": "hero-highlights-2",
+          "enabled": true,
+          "link": "#skills",
+          "detail": "01",
+          "title": "Network infrastructure",
+          "label": "CISCO · RUIJIE · UBIQUITI",
+          "_template": "2"
+        }
+      ],
+      "socialLinks": [
+        {
+          "id": "hero-socialLinks-0",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "link": "https://www.linkedin.com/in/ibrahim-elhewaty/",
+          "tooltip": "LinkedIn",
+          "accessibility": "LinkedIn",
+          "_template": "0"
+        },
+        {
+          "id": "hero-socialLinks-1",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "link": "https://github.com/IbrahimEl7ewaty",
+          "tooltip": "GitHub",
+          "accessibility": "GitHub",
+          "_template": "1"
+        },
+        {
+          "id": "hero-socialLinks-2",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "link": "https://wa.me/+201500910266",
+          "tooltip": "WhatsApp",
+          "accessibility": "WhatsApp",
+          "_template": "2"
+        },
+        {
+          "id": "hero-socialLinks-3",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "link": "mailto:it.el7ewaty@gmail.com",
+          "tooltip": "Email",
+          "accessibility": "Email",
+          "_template": "3"
+        }
+      ],
+      "image": {
+        "src": "assets/portrait-512.webp",
+        "alt": "Ibrahim El-Hewaty in a dark suit and glasses",
+        "srcset": "assets/portrait-320.webp 320w, assets/portrait-512.webp 512w",
+        "sizes": "(max-width: 700px) 90vw, 34vw"
+      },
+      "accessibility": "Work availability",
+      "link": "#about",
+      "link_2": "mailto:it.el7ewaty@gmail.com",
+      "eyebrow": "RELIABLE SYSTEMS. CONNECTED PEOPLE.",
+      "name": "Ibrahim El-Hewaty",
+      "hero_sub": "IT Operations Supervisor",
+      "hero_sub_2": "Hospitality IT & Infrastructure",
+      "pill": "READ ABOUT ME ↓",
+      "text": "Ibrahim Maher El-Hewaty",
+      "label": "Sharqia, Egypt",
+      "label_2": "it.el7ewaty@gmail.com"
+    },
+    "about": {
+      "id": "about",
+      "enabled": true,
+      "paragraphs": [
+        {
+          "id": "about-paragraphs-0",
+          "enabled": true,
+          "paragraph": "I'm Ibrahim Maher El-Hewaty, an IT Operations Supervisor with experience managing day-to-day technology in hospitality. I work across network infrastructure, system administration, user support and IT security to keep hotel departments connected.",
+          "_template": "0"
+        },
+        {
+          "id": "about-paragraphs-1",
+          "enabled": true,
+          "paragraph": "At Wadi Lahmy Azur Resort, I supported servers, workstations, guest connectivity and security systems. My background also includes freelance IT support and Flutter development, giving me a practical understanding of both infrastructure and software.",
+          "_template": "1"
+        },
+        {
+          "id": "about-paragraphs-2",
+          "enabled": true,
+          "paragraph": "My focus is IT operations: dependable networks, well-maintained systems and clear support for the people who use them.",
+          "_template": "2"
+        }
+      ],
+      "actions": [
+        {
+          "id": "about-actions-0",
+          "enabled": true,
+          "link": "Ibrahim-ElHewaty-CV.pdf",
+          "pill": "View resume ",
+          "label": "↗",
+          "_template": "0"
+        },
+        {
+          "id": "about-actions-1",
+          "enabled": true,
+          "link": "https://www.linkedin.com/in/ibrahim-elhewaty/",
+          "text_link": "Connect on LinkedIn ↗",
+          "_template": "1"
+        }
+      ],
+      "image": {
+        "src": "assets/portrait-512.webp",
+        "alt": "Portrait of Ibrahim El-Hewaty",
+        "srcset": "assets/portrait-320.webp 320w, assets/portrait-512.webp 512w",
+        "sizes": "(max-width: 700px) 90vw, 34vw"
+      },
+      "label": "Hands-on IT. Practical problem solving.",
+      "eyebrow": "01 / ABOUT ME",
+      "heading": "Behind reliable systems,",
+      "heading_2": "there's hands-on work."
+    },
+    "experience": {
+      "id": "experience",
+      "enabled": true,
+      "jobs": [
+        {
+          "id": "experience-jobs-0",
+          "enabled": true,
+          "bullets": [
+            {
+              "id": "experience-jobs-0-bullets-0",
+              "enabled": true,
+              "bullet": "Maintained servers, workstations and printers; supported Windows Server, Active Directory, user accounts and permissions.",
+              "_template": "0"
+            },
+            {
+              "id": "experience-jobs-0-bullets-1",
+              "enabled": true,
+              "bullet": "Supported VMware environments, Microsoft 365 services and Comsys within the hotel IT environment.",
+              "_template": "1"
+            },
+            {
+              "id": "experience-jobs-0-bullets-2",
+              "enabled": true,
+              "bullet": "Managed and troubleshot networks using Cisco, Sophos, Ruijie and Ubiquiti technologies, including separation of guest and internal traffic.",
+              "_template": "2"
+            },
+            {
+              "id": "experience-jobs-0-bullets-3",
+              "enabled": true,
+              "bullet": "Maintained Hikvision CCTV and security systems, and performed updates, backups, preventive maintenance and troubleshooting.",
+              "_template": "3"
+            }
+          ],
+          "tags": [
+            {
+              "id": "experience-jobs-0-tags-0",
+              "enabled": true,
+              "label": "Hotel IT",
+              "_template": "0"
+            },
+            {
+              "id": "experience-jobs-0-tags-1",
+              "enabled": true,
+              "label": "Network infrastructure",
+              "_template": "1"
+            },
+            {
+              "id": "experience-jobs-0-tags-2",
+              "enabled": true,
+              "label": "Systems administration",
+              "_template": "2"
+            },
+            {
+              "id": "experience-jobs-0-tags-3",
+              "enabled": true,
+              "label": "Technical support",
+              "_template": "3"
+            }
+          ],
+          "link": "tel:+201550030000",
+          "link_2": "mailto:a.louis@azurhospitality.com",
+          "label": "Nov 2025 - Nov 2026",
+          "paragraph": "Wadi Lahmy Azur Resort",
+          "title": "IT Operations Supervisor",
+          "paragraph_2": "Managed daily hotel IT operations and provided technical support across departments.",
+          "eyebrow": "PROFESSIONAL REFERENCE",
+          "title_2": "Awad Louis",
+          "paragraph_3": "CIO, Azur Hotels and Resorts",
+          "label_2": "+20 155 003 0000",
+          "label_3": "a.louis@azurhospitality.com",
+          "_template": "0"
+        },
+        {
+          "id": "experience-jobs-1",
+          "enabled": true,
+          "tags": [
+            {
+              "id": "experience-jobs-1-tags-0",
+              "enabled": true,
+              "label": "IT support",
+              "_template": "0"
+            },
+            {
+              "id": "experience-jobs-1-tags-1",
+              "enabled": true,
+              "label": "Networking",
+              "_template": "1"
+            },
+            {
+              "id": "experience-jobs-1-tags-2",
+              "enabled": true,
+              "label": "Linux basics",
+              "_template": "2"
+            },
+            {
+              "id": "experience-jobs-1-tags-3",
+              "enabled": true,
+              "label": "Flutter",
+              "_template": "3"
+            }
+          ],
+          "label": "2023 - 2025",
+          "paragraph": "Freelancer",
+          "title": "IT Specialist & Mobile Developer",
+          "paragraph_2": "Provided hardware, software and networking support, troubleshot end-user connectivity issues, and worked with TCP/IP, DNS, VLANs, routing and switching concepts. Developed Flutter applications and worked with basic Linux environments.",
+          "_template": "1"
+        }
+      ],
+      "eyebrow": "02 / EXPERIENCE",
+      "heading": "Where I've worked.",
+      "paragraph": "Hospitality operations, infrastructure",
+      "paragraph_2": "and end-user support."
+    },
+    "projects": {
+      "id": "projects",
+      "enabled": true,
+      "featuredProjects": [
+        {
+          "id": "projects-featuredProjects-0",
+          "enabled": true,
+          "bullets": [
+            {
+              "id": "projects-featuredProjects-0-bullets-0",
+              "enabled": true,
+              "bullet": "Configured bandwidth quotas, including a 1 GB per-user policy, and session controls.",
+              "_template": "0"
+            },
+            {
+              "id": "projects-featuredProjects-0-bullets-1",
+              "enabled": true,
+              "bullet": "Managed the gateway through Ruijie Cloud and automated voucher generation and printing.",
+              "_template": "1"
+            },
+            {
+              "id": "projects-featuredProjects-0-bullets-2",
+              "enabled": true,
+              "bullet": "Isolated guest and internal networks with VLAN segmentation.",
+              "_template": "2"
+            },
+            {
+              "id": "projects-featuredProjects-0-bullets-3",
+              "enabled": true,
+              "bullet": "Monitored active sessions and troubleshot connectivity and quota-related issues.",
+              "_template": "3"
+            }
+          ],
+          "tags": [
+            {
+              "id": "projects-featuredProjects-0-tags-0",
+              "enabled": true,
+              "label": "Ruijie Cloud",
+              "_template": "0"
+            },
+            {
+              "id": "projects-featuredProjects-0-tags-1",
+              "enabled": true,
+              "label": "Captive portal",
+              "_template": "1"
+            },
+            {
+              "id": "projects-featuredProjects-0-tags-2",
+              "enabled": true,
+              "label": "VLANs",
+              "_template": "2"
+            },
+            {
+              "id": "projects-featuredProjects-0-tags-3",
+              "enabled": true,
+              "label": "Bandwidth management",
+              "_template": "3"
+            }
+          ],
+          "accessibility": "Conceptual guest Wi-Fi access flow, not the hotel's live network topology",
+          "eyebrow": "WADI LAHMY AZUR RESORT",
+          "title": "Smart Guest Wi-Fi Voucher",
+          "title_2": "& Captive Portal System",
+          "paragraph": "Designed and deployed a voucher-based Wi-Fi access solution for hotel guests, with a custom HTML/CSS captive portal hosted locally on the gateway.",
+          "label": "GUEST ACCESS FLOW",
+          "label_2": "01",
+          "network_node": "Guest device ",
+          "detail": "↓",
+          "network_node_2": "Voucher + captive portal ",
+          "detail_2": "↓",
+          "network_node_3": "Ruijie gateway ",
+          "detail_3": "Quota & session controls",
+          "text": "Guest VLAN",
+          "detail_4": "Internet access",
+          "text_2": "Internal VLAN",
+          "detail_5": "Isolated traffic",
+          "text_3": "Conceptual access flow, not a live network diagram.",
+          "_template": "0"
+        }
+      ],
+      "previousProjects": [
+        {
+          "id": "projects-previousProjects-0",
+          "enabled": true,
+          "title": "Power Pro",
+          "paragraph": "Energy consumption management and performance monitoring.",
+          "detail": "Flutter · Dart · Firebase · Provider",
+          "_template": "0"
+        },
+        {
+          "id": "projects-previousProjects-1",
+          "enabled": true,
+          "title": "ToDo App",
+          "paragraph": "Daily task management with adding, editing, deleting and cloud saving.",
+          "detail": "Flutter · Dart · Firebase Firestore",
+          "_template": "1"
+        },
+        {
+          "id": "projects-previousProjects-2",
+          "enabled": true,
+          "title": "Restaurant App",
+          "paragraph": "A food menu and meal-ordering application.",
+          "detail": "Flutter · Dart · RESTful APIs",
+          "_template": "2"
+        },
+        {
+          "id": "projects-previousProjects-3",
+          "enabled": true,
+          "title": "Shope App",
+          "paragraph": "E-commerce app with cart, sign-in and virtual payment.",
+          "detail": "Flutter · Dart · Firebase Auth · Provider",
+          "_template": "3"
+        }
+      ],
+      "link": "https://www.linkedin.com/posts/ebrahim-m-098300128_flutter-mobiledevelopment-dart-activity-7334893341702070272-UKKb",
+      "eyebrow": "03 / FEATURED PROJECT",
+      "heading": "Guest access.",
+      "heading_2": "Under control.",
+      "paragraph": "One focused infrastructure project.",
+      "paragraph_2": "Built for a working hotel environment.",
+      "detail": "EARLIER WORK / FLUTTER",
+      "title": "Previous projects",
+      "paragraph_3": "Earlier Flutter work supports my software background. My current career focus is IT operations.",
+      "text_link": "Read: My Journey in Flutter, From C++ to Mobile App Development ↗",
+      "publication_note": "A personal post about learning Flutter, practical applications and tips for beginners."
+    },
+    "skills": {
+      "id": "skills",
+      "enabled": true,
+      "categories": [
+        {
+          "id": "skills-categories-0",
+          "enabled": true,
+          "lines": [
+            {
+              "id": "skills-categories-0-lines-0",
+              "enabled": true,
+              "paragraph": "CCNA: routing and switching foundations",
+              "_template": "0"
+            },
+            {
+              "id": "skills-categories-0-lines-1",
+              "enabled": true,
+              "paragraph": "TCP/IP, DNS, VLANs and network troubleshooting",
+              "_template": "1"
+            },
+            {
+              "id": "skills-categories-0-lines-2",
+              "enabled": true,
+              "paragraph": "Cisco, Ruijie, Ubiquiti and Sophos",
+              "_template": "2"
+            },
+            {
+              "id": "skills-categories-0-lines-3",
+              "enabled": true,
+              "paragraph": "Wireshark packet analysis and network labs",
+              "_template": "3"
+            }
+          ],
+          "title": "NETWORKS & SECURITY",
+          "_template": "0"
+        },
+        {
+          "id": "skills-categories-1",
+          "enabled": true,
+          "lines": [
+            {
+              "id": "skills-categories-1-lines-0",
+              "enabled": true,
+              "paragraph": "MCSA / Windows Server administration",
+              "_template": "0"
+            },
+            {
+              "id": "skills-categories-1-lines-1",
+              "enabled": true,
+              "paragraph": "Active Directory, users and access permissions",
+              "_template": "1"
+            },
+            {
+              "id": "skills-categories-1-lines-2",
+              "enabled": true,
+              "paragraph": "VMware, Microsoft 365 and Linux",
+              "_template": "2"
+            },
+            {
+              "id": "skills-categories-1-lines-3",
+              "enabled": true,
+              "paragraph": "Backups, updates and preventive maintenance",
+              "_template": "3"
+            }
+          ],
+          "title": "SERVERS & SYSTEMS",
+          "_template": "1"
+        },
+        {
+          "id": "skills-categories-2",
+          "enabled": true,
+          "lines": [
+            {
+              "id": "skills-categories-2-lines-0",
+              "enabled": true,
+              "paragraph": "Hotel IT operations and technical support",
+              "_template": "0"
+            },
+            {
+              "id": "skills-categories-2-lines-1",
+              "enabled": true,
+              "paragraph": "Guest Wi-Fi vouchers and captive portals",
+              "_template": "1"
+            },
+            {
+              "id": "skills-categories-2-lines-2",
+              "enabled": true,
+              "paragraph": "Comsys, Hikvision CCTV and security systems",
+              "_template": "2"
+            },
+            {
+              "id": "skills-categories-2-lines-3",
+              "enabled": true,
+              "paragraph": "Guest and internal network segmentation",
+              "_template": "3"
+            }
+          ],
+          "title": "HOSPITALITY IT",
+          "_template": "2"
+        },
+        {
+          "id": "skills-categories-3",
+          "enabled": true,
+          "lines": [
+            {
+              "id": "skills-categories-3-lines-0",
+              "enabled": true,
+              "paragraph": "Flutter, Dart, Firebase and RESTful APIs",
+              "_template": "0"
+            },
+            {
+              "id": "skills-categories-3-lines-1",
+              "enabled": true,
+              "paragraph": "Git and GitHub",
+              "_template": "1"
+            },
+            {
+              "id": "skills-categories-3-lines-2",
+              "enabled": true,
+              "paragraph": "Python fundamentals",
+              "_template": "2"
+            },
+            {
+              "id": "skills-categories-3-lines-3",
+              "enabled": true,
+              "paragraph": "Kali Linux, GNS3, Packet Tracer and EVE-NG",
+              "_template": "3"
+            }
+          ],
+          "title": "DEVELOPMENT & LABS",
+          "_template": "3"
+        }
+      ],
+      "softSkills": [
+        {
+          "id": "skills-softSkills-0",
+          "enabled": true,
+          "label": "Problem solving",
+          "_template": "0"
+        },
+        {
+          "id": "skills-softSkills-1",
+          "enabled": true,
+          "label": "Analytical thinking",
+          "_template": "1"
+        },
+        {
+          "id": "skills-softSkills-2",
+          "enabled": true,
+          "label": "Communication",
+          "_template": "2"
+        },
+        {
+          "id": "skills-softSkills-3",
+          "enabled": true,
+          "label": "Time management",
+          "_template": "3"
+        },
+        {
+          "id": "skills-softSkills-4",
+          "enabled": true,
+          "label": "Leadership & team coordination",
+          "_template": "4"
+        },
+        {
+          "id": "skills-softSkills-5",
+          "enabled": true,
+          "label": "Independent work",
+          "_template": "5"
+        },
+        {
+          "id": "skills-softSkills-6",
+          "enabled": true,
+          "label": "Attention to detail",
+          "_template": "6"
+        }
+      ],
+      "tools": [
+        {
+          "id": "skills-tools-0",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Cisco",
+          "_template": "0"
+        },
+        {
+          "id": "skills-tools-1",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Ruijie",
+          "_template": "1"
+        },
+        {
+          "id": "skills-tools-2",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Ubiquiti",
+          "_template": "2"
+        },
+        {
+          "id": "skills-tools-3",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Sophos",
+          "_template": "3"
+        },
+        {
+          "id": "skills-tools-4",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "VMware",
+          "_template": "4"
+        },
+        {
+          "id": "skills-tools-5",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Active Directory",
+          "_template": "5"
+        },
+        {
+          "id": "skills-tools-6",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Windows Server",
+          "_template": "6"
+        },
+        {
+          "id": "skills-tools-7",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Microsoft 365",
+          "_template": "7"
+        },
+        {
+          "id": "skills-tools-8",
+          "enabled": true,
+          "image": {
+            "src": "assets/linux-icon.png",
+            "alt": "",
+            "srcset": "",
+            "sizes": ""
+          },
+          "label": "Linux",
+          "_template": "8"
+        },
+        {
+          "id": "skills-tools-9",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Kali Linux",
+          "_template": "9"
+        },
+        {
+          "id": "skills-tools-10",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Wireshark",
+          "_template": "10"
+        },
+        {
+          "id": "skills-tools-11",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "GNS3",
+          "_template": "11"
+        },
+        {
+          "id": "skills-tools-12",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Packet Tracer",
+          "_template": "12"
+        },
+        {
+          "id": "skills-tools-13",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "EVE-NG",
+          "_template": "13"
+        },
+        {
+          "id": "skills-tools-14",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Python",
+          "_template": "14"
+        },
+        {
+          "id": "skills-tools-15",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Git / GitHub",
+          "_template": "15"
+        },
+        {
+          "id": "skills-tools-16",
+          "enabled": true,
+          "icon": {
+            "image": "",
+            "alt": ""
+          },
+          "label": "Flutter",
+          "_template": "16"
+        }
+      ],
+      "eyebrow": "04 / EXPERTISE",
+      "heading": "Skillset",
+      "paragraph": "Networks, systems and day-to-day hospitality IT.",
+      "heading_2": "Toolbox",
+      "paragraph_2": "The technologies behind my work."
+    },
+    "education": {
+      "id": "education",
+      "enabled": true,
+      "qualifications": [
+        {
+          "id": "education-qualifications-0",
+          "enabled": true,
+          "label": "2026",
+          "title": "General Diploma in Education",
+          "paragraph": "Faculty of Education (Boys), Al-Azhar University",
+          "_template": "0"
+        },
+        {
+          "id": "education-qualifications-1",
+          "enabled": true,
+          "label": "2025",
+          "title": "Bachelor's Degree in Computers and Information",
+          "paragraph": "Zagazig University",
+          "_template": "1"
+        }
+      ],
+      "languages": [
+        {
+          "id": "education-languages-0",
+          "enabled": true,
+          "label": "Arabic ",
+          "detail": "Native",
+          "_template": "0"
+        },
+        {
+          "id": "education-languages-1",
+          "enabled": true,
+          "label": "English ",
+          "detail": "Good",
+          "_template": "1"
+        }
+      ],
+      "eyebrow": "05 / EDUCATION",
+      "heading": "A foundation",
+      "heading_2": "in computing."
+    },
+    "certificates": {
+      "id": "certificates",
+      "enabled": true,
+      "courses": [
+        {
+          "id": "certificates-courses-0",
+          "enabled": true,
+          "title": "CCNA",
+          "label": "Udemy · 2023",
+          "detail": "Course training",
+          "_template": "0"
+        },
+        {
+          "id": "certificates-courses-1",
+          "enabled": true,
+          "title": "MCSA / Windows Server",
+          "label": "Self-study",
+          "detail": "Not an exam certification",
+          "_template": "1"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "certificates-certificates-0",
+          "enabled": true,
+          "image": {
+            "src": "assets/cert-NTI-Flutter.webp",
+            "alt": "NTI mobile app development certificate",
+            "srcset": "",
+            "sizes": ""
+          },
+          "link": "certificates/images/NTI-Flutter.jpg",
+          "title": "Mobile App Development",
+          "paragraph": "National Telecommunication Institute (NTI) · 2025",
+          "label": "↗",
+          "_template": "0"
+        },
+        {
+          "id": "certificates-certificates-1",
+          "enabled": true,
+          "image": {
+            "src": "assets/cert-flutter_udemy.webp",
+            "alt": "Udemy Flutter and Dart course certificate",
+            "srcset": "",
+            "sizes": ""
+          },
+          "link": "certificates/images/flutter_udemy.jpg",
+          "title": "Flutter & Dart Development",
+          "paragraph": "Udemy",
+          "label": "↗",
+          "_template": "1"
+        },
+        {
+          "id": "certificates-certificates-2",
+          "enabled": true,
+          "image": {
+            "src": "assets/cert-design_thinking_creativa.webp",
+            "alt": "Design Thinking certificate",
+            "srcset": "",
+            "sizes": ""
+          },
+          "link": "certificates/images/design_thinking_creativa.png",
+          "title": "Design Thinking",
+          "paragraph": "Creativa Zagazig",
+          "label": "↗",
+          "_template": "2"
+        },
+        {
+          "id": "certificates-certificates-3",
+          "enabled": true,
+          "image": {
+            "src": "assets/cert-gdg.webp",
+            "alt": "GDG Zagazig Flutter certificate",
+            "srcset": "",
+            "sizes": ""
+          },
+          "link": "certificates/images/gdg.jpg",
+          "title": "Flutter / Gcamp Event",
+          "paragraph": "GDG Zagazig",
+          "label": "↗",
+          "_template": "3"
+        },
+        {
+          "id": "certificates-certificates-4",
+          "enabled": true,
+          "image": {
+            "src": "assets/cert-innovegypt.webp",
+            "alt": "InnovEgypt program certificate",
+            "srcset": "",
+            "sizes": ""
+          },
+          "link": "certificates/images/innovegypt.png",
+          "title": "InnovEgypt Program",
+          "paragraph": "ITIDA & TIEC",
+          "label": "↗",
+          "_template": "4"
+        }
+      ],
+      "eyebrow": "06 / LEARNING",
+      "heading": "Training & certificates.",
+      "paragraph": "Networking and systems training,",
+      "paragraph_2": "with development and innovation courses."
+    },
+    "contact": {
+      "id": "contact",
+      "enabled": true,
+      "socialLinks": [
+        {
+          "id": "contact-socialLinks-0",
+          "enabled": true,
+          "link": "https://www.linkedin.com/in/ibrahim-elhewaty/",
+          "label": "LinkedIn ↗",
+          "_template": "0"
+        },
+        {
+          "id": "contact-socialLinks-1",
+          "enabled": true,
+          "link": "https://github.com/IbrahimEl7ewaty",
+          "label": "GitHub ↗",
+          "_template": "1"
+        },
+        {
+          "id": "contact-socialLinks-2",
+          "enabled": true,
+          "link": "https://wa.me/+201500910266",
+          "label": "WhatsApp ↗",
+          "_template": "2"
+        },
+        {
+          "id": "contact-socialLinks-3",
+          "enabled": true,
+          "link": "Ibrahim-ElHewaty-CV.pdf",
+          "label": "Resume PDF ↗",
+          "_template": "3"
+        }
+      ],
+      "accessibility": "Work availability",
+      "link": "mailto:it.el7ewaty@gmail.com",
+      "link_2": "tel:+201500910266",
+      "placeholder": "Your full name",
+      "placeholder_2": "you@example.com",
+      "placeholder_3": "What would you like to discuss?",
+      "link_3": "mailto:it.el7ewaty@gmail.com",
+      "eyebrow": "07 / CONTACT",
+      "heading": "Let's keep",
+      "heading_2": "things ",
+      "label": "connected.",
+      "paragraph": "IT operations · Hospitality IT · Infrastructure",
+      "contact_email": "it.el7ewaty@gmail.com ↗",
+      "phone": "+20 150 091 0266",
+      "eyebrow_2": "START A CONVERSATION",
+      "title": "Send me a message.",
+      "paragraph_2": "Have an IT opportunity or a question? Leave your details below.",
+      "fallback": "JavaScript is needed to send this form. Please use the email link below.",
+      "label_2": "Your name",
+      "label_3": "Your email",
+      "label_4": "Your message",
+      "label_5": "Leave this field empty",
+      "form_note": "Your name, email and message are processed by Web3Forms and sent to my work inbox. Please do not include sensitive information.",
+      "pill": "Send message ↗",
+      "form_status": "Each message is sent separately. You can also email me directly below.",
+      "text_link": "Email it.el7ewaty@gmail.com ↗"
+    },
+    "footer": {
+      "id": "footer",
+      "enabled": true,
+      "image": {
+        "src": "assets/signature-full.svg",
+        "alt": "Ibrahim El-Hewaty",
+        "srcset": "",
+        "sizes": ""
+      },
+      "link": "#hero",
+      "accessibility": "Ibrahim El-Hewaty, return to home",
+      "link_2": "#hero",
+      "paragraph": "© 2026 Ibrahim El-Hewaty · Sharqia, Egypt",
+      "label": "Back to top ↑"
+    }
+  }
+}
